@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Beautiful People",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2026-02-27T15:38:59.135245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful People Beautiful Problems (feat. Stevie Nicks)",
+      "artist": "Lana Del Rey feat. Stevie Nicks",
+      "has_synced": true,
+      "path": "select/01_Beautiful_People_Beautiful_Problems_(feat._Stevie_Nicks)_Lana_Del_Rey_feat._Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful People Beautiful Problems (feat. Stevie Nicks)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_Beautiful_People_Beautiful_Problems_(feat._Stevie_Nicks)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful People (The Underground Network mix)",
+      "artist": "Barbara Tucker",
+      "has_synced": false,
+      "path": "select/03_Beautiful_People_(The_Underground_Network_mix)_Barbara_Tucker.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful People (feat. Thom Yorke)",
+      "artist": "Mark Pritchard feat. Thom Yorke",
+      "has_synced": true,
+      "path": "select/04_Beautiful_People_(feat._Thom_Yorke)_Mark_Pritchard_feat._Thom_Yorke.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Beautiful People",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/05_The_Beautiful_People_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful People",
+      "artist": "A$AP Ferg feat. Chuck D & Mama Ferg",
+      "has_synced": true,
+      "path": "select/06_Beautiful_People_A$AP_Ferg_feat._Chuck_D_&_Mama_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful People (feat. Chuck D & Mama Ferg)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/07_Beautiful_People_(feat._Chuck_D_&_Mama_Ferg)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful People (Underground Network Mix)",
+      "artist": "Barbara Tucker",
+      "has_synced": false,
+      "path": "select/08_Beautiful_People_(Underground_Network_Mix)_Barbara_Tucker.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful People",
+      "artist": "The Books",
+      "has_synced": false,
+      "path": "select/09_Beautiful_People_The_Books.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful People",
+      "artist": "Chris Brown feat. Benny Benassi",
+      "has_synced": true,
+      "path": "select/10_Beautiful_People_Chris_Brown_feat._Benny_Benassi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful People (Feat. Benny Benassi)",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/11_Beautiful_People_(Feat._Benny_Benassi)_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful People (feat. Khalid) [Danny L Harle Harlecore Remix]",
+      "artist": "Ed Sheeran feat. Khalid",
+      "has_synced": true,
+      "path": "select/12_Beautiful_People_(feat._Khalid)_[Danny_L_Harle_Harlecore_Remix]_Ed_Sheeran_feat._Khalid.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful People (feat. Khalid) (Danny L Harle Harlecore Remix)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/13_Beautiful_People_(feat._Khalid)_(Danny_L_Harle_Harlecore_Remix)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beautiful People",
+      "artist": "Big Country",
+      "has_synced": false,
+      "path": "select/14_Beautiful_People_Big_Country.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beautiful People (Demo)",
+      "artist": "Big Country",
+      "has_synced": false,
+      "path": "select/15_Beautiful_People_(Demo)_Big_Country.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Beautiful People",
+      "artist": "Soulfly",
+      "has_synced": true,
+      "path": "select/16_The_Beautiful_People_Soulfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful People (feat. Khalid)",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_People_(feat._Khalid)_Ed_Sheeran.txt"
+    }
+  ]
+}
